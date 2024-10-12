@@ -44,7 +44,7 @@ const Hero = () => {
             Hi! I&apos;m Ritesh, a passionate Developer based in India
           </p>
 
-          <a href="https://drive.google.com/file/d/1XOCofFwJAFNxyL0bs_7XV0mKc1C9bu9B/view" target="_blank">
+          <a href="https://drive.google.com/file/d/1q8fxIU_gKnseIMZ8tT598lgQZ-bhYPsX/view" target="_blank">
             <MagicButton
               title="My Resume"
               icon={<FaLocationArrow />}
