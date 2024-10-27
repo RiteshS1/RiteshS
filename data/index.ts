@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "RunMan",
-    des: "Created a fun game in which Man jumps over a dog..",
-    img: "/Runman.png",
+    title: "Snakey🐍",
+    des: "Created a fun game in which the snake eats a burger and grows...",
+    img: "/snakey.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/RiteshS1/run-man/",
+    link: "https://riteshs1.github.io/Snake-Game/",
   },
 ];
 
